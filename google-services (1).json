@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1043073777988",
+    "firebase_url": "https://dacs3-d5c2d-default-rtdb.firebaseio.com",
+    "project_id": "dacs3-d5c2d",
+    "storage_bucket": "dacs3-d5c2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043073777988:android:00a1f922a326bf96491711",
+        "android_client_info": {
+          "package_name": "vn.udn.vku.nmtri.handmade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043073777988-adtd4ohsceivgq4hhpds7clae6pk88s6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmC4M4tU464f0jzA9COupC1T-6gjZrzoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043073777988-adtd4ohsceivgq4hhpds7clae6pk88s6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
